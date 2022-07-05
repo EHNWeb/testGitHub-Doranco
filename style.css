@@ -4,3 +4,8 @@ body {
     font-weight: bold;
     border: 2px solid orange;
 }
+
+p {
+    background-color: aqua;
+    color: green;
+}
